@@ -15,6 +15,7 @@ The goal is to automatically identify amenities such as beds, lamps, pillows, te
 - OpenCV
 - Flask
 - HTML/CSS
+- Google Colab
 
 ---
 
